@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/scaleway/docker-machine-driver-scaleway",
+	"ImportPath": "github.com/justkog/docker-machine-driver-scaleway",
 	"GoVersion": "go1.8",
 	"GodepVersion": "v79",
 	"Deps": [
